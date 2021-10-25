@@ -1,0 +1,19 @@
+.container-area {
+  display: flex;
+  margin: 5rem;
+}
+
+.view {
+  width: 220px;
+  padding: 1rem 0.5rem;
+  display: block;
+  font-size: 1rem;
+  border: none;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btnContainer {
+  margin: auto;
+}
